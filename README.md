@@ -71,7 +71,7 @@ Windows
 2. Right-click "SuryaScript-Regular.ttf".
 3. Select "Install" or "Install for all users".
 4. Restart your applications if they were open during installation.
-5. Other OS Supports macOS, Linux and Windods.
+5. Other OS Supports macOS, Linux and Windows.
 
 -------------------------------------------------------------------------------
 USAGE
