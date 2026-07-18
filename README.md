@@ -151,7 +151,7 @@ Website
  -------------------------------------------------------------------------------
 Wiki
 -------------------------------------------------------------------------------
-https://github.com/sujitkumarmishra/SuryaScript-Font/wiki/SuryaScript-Font)
+https://github.com/sujitkumarmishra/SuryaScript-Font/wiki/SuryaScript-Font
 -------------------------------------------------------------------------------
 VERSION HISTORY
 -------------------------------------------------------------------------------
