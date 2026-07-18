@@ -71,6 +71,7 @@ Windows
 2. Right-click "SuryaScript-Regular.ttf".
 3. Select "Install" or "Install for all users".
 4. Restart your applications if they were open during installation.
+5. Other OS Supports macOS, Linux and Windods.
 
 -------------------------------------------------------------------------------
 USAGE
@@ -146,6 +147,11 @@ Website
 1) Google: https://share.google/vX5YbhKHZ00B8lugw
 2) Facebook: https://www.facebook.com/officialsujitkumarmishra
 3) Twitter: https://x.com/Sujit_kumar_mis
+
+ -------------------------------------------------------------------------------
+Wiki
+-------------------------------------------------------------------------------
+https://github.com/sujitkumarmishra/SuryaScript-Font/wiki/SuryaScript-Font)
 -------------------------------------------------------------------------------
 VERSION HISTORY
 -------------------------------------------------------------------------------
